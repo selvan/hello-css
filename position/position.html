@@ -1,0 +1,70 @@
+
+<html>
+  <head><title>position.md</title></head>
+  <body>
+<h2>Position:static</h2>
+
+<p>Default positioning for all elements.
+Normal behavior.  The top, right, bottom, and left properties do not apply.</p>
+
+<iframe src="pages/1.html" width="400px" height="400px"></iframe>
+
+
+<h2>Position:relative</h2>
+
+<p>Lay out all elements as though the element were not positioned, and then adjust the element's position, without changing
+layout (and thus leaving a gap for the element where it would have been had it not been positioned).
+The effect of position:relative on table-*-group, table-row, table-column, table-cell, and table-caption elements is undefined.</p>
+
+<p>Use top, right, bottom, and left properties to position your element.</p>
+
+<pre><code>#div-1 {
+     position:relative;
+     top:20px;
+     left:50px;
+}
+</code></pre>
+
+<iframe src="pages/2.html" width="400px" height="400px"></iframe>
+
+
+<h2>position:absolute</h2>
+
+<p>Do not leave space for the element.  Instead, position it at a specified position relative to its closest positioned ancestor or to the containing block.
+Absolutely positioned boxes can have margins, they do not collapse with any other margins.</p>
+
+<pre><code>#div-1a {
+    position: absolute;
+    top:0;
+    right:0;
+}
+</code></pre>
+
+<iframe src="pages/3.html" width="400px" height="400px"></iframe>
+
+
+<h2>More Examples</h2>
+
+<h3>position:relative + position:absolute</h3>
+
+<p>div-1 - is relatively positioned.
+div-1a - with in "div-1", "div-1a" is absolutly positioned.</p>
+
+<pre><code>#div-1 {
+     position:relative;
+     top:20px;
+     left:50px;
+}
+#div-1a {
+     position:absolute;
+     top:0;
+     left:0;
+}
+</code></pre>
+
+<iframe src="pages/4.html" width="400px" height="400px"></iframe>
+
+
+
+  </body>
+</html>
