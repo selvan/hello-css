@@ -19,18 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="intro.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/intro.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="17" selection-start="2571" selection-end="2571" vertical-scroll-proportion="0.92241377">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="stacking-context.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stacking-context/stacking-context.md">
           <provider selected="true" editor-type-id="MarkdownPreviewEditor">
@@ -43,13 +31,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="position.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/position/position.md">
+      <file leaf-file-name="intro.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/intro.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="65" selection-start="135" selection-end="200" vertical-scroll-proportion="-3.2608695">
+            <state line="46" column="115" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.30172414">
               <folding />
             </state>
           </provider>
@@ -379,7 +367,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="65" selection-start="135" selection-end="200" vertical-scroll-proportion="-3.2608695">
+        <state line="5" column="65" selection-start="135" selection-end="200" vertical-scroll-proportion="0.12931034">
           <folding />
         </state>
       </provider>
@@ -399,7 +387,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="17" selection-start="2571" selection-end="2571" vertical-scroll-proportion="0.92241377">
+        <state line="46" column="115" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.30172414">
           <folding />
         </state>
       </provider>

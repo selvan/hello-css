@@ -44,7 +44,7 @@ We can change block-to-inline and vice-versa, using "display" css property.
 
 #### Stacking context
 
-Note: Content copied from https://developer.mozilla.org/en-US/docs/CSS/Understanding\_z-index/The\_stacking\_context
+Note: Content copied from "https://developer.mozilla.org/en-US/docs/CSS/Understanding_z-index/The_stacking_context"
 
 
     The rendering order of DIVs is influenced by their z-index value. This occurs because these DIVs have special properties which cause them to form a stacking context.
